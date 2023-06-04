@@ -38,4 +38,6 @@
 ### Задание 4
 ![Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/nginx.png)
 
+### Задание 5
+![Скриншот](https://github.com/sergeysprdnv/screenshots/blob/main/nginx_8088.png)
 
